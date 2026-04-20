@@ -10,5 +10,5 @@ The experiment investigated Si diodes, Zener diodes, and LEDs using current-volt
 
 ## Files
 - `report.pdf` – final lab report
-- `data/` – measurement and analysis files
+- `Notebook.zip` – measurement and analysis files
 
