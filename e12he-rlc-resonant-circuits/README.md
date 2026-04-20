@@ -10,5 +10,5 @@ The experiment examined the resonance behavior of different RLC-based circuits a
 
 ## Files
 - `report.pdf` – final lab report
-- `data/` – measurement and analysis files
+- `Notebook.zip` – measurement and analysis files
 
