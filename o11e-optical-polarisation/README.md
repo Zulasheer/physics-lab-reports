@@ -11,5 +11,5 @@ The experiment investigated how the transmitted intensity of polarized light cha
 
 ## Files
 - `report.pdf` – final lab report
-- `data/` – measurement and analysis files
+- `Notebook.zip` – measurement and analysis files
 
