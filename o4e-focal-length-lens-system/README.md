@@ -10,5 +10,5 @@ The experiment investigated the optical behavior of a two-converging lens system
 
 ## Files
 - `report.pdf` – final lab report
-- `notebook.zip` – measurement and analysis files
+- `Notebook.zip` – measurement and analysis files
 
