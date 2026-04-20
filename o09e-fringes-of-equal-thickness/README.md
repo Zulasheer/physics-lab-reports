@@ -10,4 +10,4 @@ The experiment used optical interference to investigate Newton’s rings and wed
 
 ## Files
 - `report.pdf` – final lab report
-- `data/` – measurement and analysis files
+- `Notebook.zip` – measurement and analysis files
