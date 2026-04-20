@@ -1,6 +1,6 @@
 # E12He – RLC Resonant Circuits
 
-This folder contains my lab report and data files for an experiment on resonance in RLC circuits.
+The experiment examined the resonance behavior of different RLC-based circuits and used fitted models to determine resonant frequencies, damping constants, and quality factors.
 
 ## Focus
 - resonance curves in RLC series circuits
@@ -12,5 +12,3 @@ This folder contains my lab report and data files for an experiment on resonance
 - `report.pdf` – final lab report
 - `data/` – measurement and analysis files
 
-## Summary
-The experiment examined the resonance behavior of different RLC-based circuits and used fitted models to determine resonant frequencies, damping constants, and quality factors.
