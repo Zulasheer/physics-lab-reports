@@ -11,5 +11,5 @@ The experiment used scanning electron microscopy to investigate the structural, 
 
 ## Files
 - `report.pdf` – final lab report
-- `data/` – measurement and analysis files
+- `Data.zip` – measurement and analysis files
 
