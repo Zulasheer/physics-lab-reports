@@ -11,5 +11,5 @@ The experiment investigated the voltage response of a capacitor in a MOSFET-swit
 
 ## Files
 - `report.pdf` – final lab report
-- `data/` – measurement and analysis files
+- `Notebook.zip` – measurement and analysis files
 
