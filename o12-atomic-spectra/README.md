@@ -10,5 +10,5 @@ The experiment used a reflective diffraction grating to determine the grating co
 
 ## Files
 - `report.pdf` – final lab report
-- `data/` – measurement and analysis files
+- `Notebook.zip` – measurement and analysis files
 
