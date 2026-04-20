@@ -10,6 +10,6 @@ The experiment studied the phase angle between voltage and current in RC, RL, an
 
 ## Files
 - `report.pdf` – final lab report
-- `data/` – measurement and analysis files
+- `Notebook.zip` – measurement and analysis files
 
 
