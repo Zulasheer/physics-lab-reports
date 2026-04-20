@@ -1,4 +1,4 @@
-# E14e – Phase Shift in AC Circuits
+# E11e – Phase Shift in AC Circuits
 
 The experiment studied the phase angle between voltage and current in RC, RL, and RLC circuits as a function of frequency and used model fitting to determine key circuit parameters.
 
