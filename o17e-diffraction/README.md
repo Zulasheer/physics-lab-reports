@@ -10,5 +10,5 @@ The experiment investigated diffraction and interference of monochromatic laser 
 
 ## Files
 - `report.pdf` – final lab report
-- `data/` – measurement and analysis files
+- `Notebook.zip` – measurement and analysis files
 
