@@ -10,5 +10,5 @@ The experiment studied coupled LC oscillators under capacitive and inductive cou
 
 ## Files
 - `report.pdf` – final lab report
-- `data/` – measurement and analysis files
+- `Notebook.zip` – measurement and analysis files
 
