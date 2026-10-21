@@ -20,7 +20,7 @@ This experiment investigated molecular iodine absorption spectra and optical col
 
 ## Files
 - `report.pdf` — Full experimental report
-- `data/` — Spectroscopic measurements and analysis data, if available
+- `data/` — Spectroscopic measurements and analysis data
 
 ## Summary
 The experiment connected molecular spectroscopy with solid-state defect physics through optical absorption measurements. Analysis of iodine vibrational transitions and F-centres in irradiated alkali halides provided insight into electronic transitions, lattice interactions, and defect-state models.
