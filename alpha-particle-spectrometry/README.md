@@ -19,7 +19,7 @@ This experiment investigated alpha-particle energy spectra and energy loss in ma
 
 ## Files
 - `report.pdf` — Full experimental report
-- `data/` — Experimental measurements and simulation data, if available
+- `data/` — Experimental measurements and simulation data
 
 ## Summary
 The experiment demonstrated the use of semiconductor detectors for charged-particle spectroscopy and investigated how alpha particles lose energy in different absorbing materials. Experimental results showed good agreement with stopping-range predictions and SRIM simulations.
