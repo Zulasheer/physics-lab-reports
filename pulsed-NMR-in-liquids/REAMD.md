@@ -20,7 +20,7 @@ This experiment investigated proton nuclear magnetic resonance in liquid samples
 
 ## Files
 - `report.pdf` — Full experimental report
-- `data/` — NMR measurements and analysis data, if available
+- `data/` — NMR measurements and analysis data
 
 ## Summary
 The experiment investigated fundamental NMR phenomena through radio-frequency pulse calibration, relaxation measurements, Fourier analysis of free-induction decay signals, and spin-echo techniques. It demonstrated how pulse sequences can be used to characterize nuclear spin dynamics in liquids.
